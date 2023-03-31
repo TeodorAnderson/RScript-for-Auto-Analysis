@@ -24,3 +24,27 @@ The t-test run on all lots show that with a p value of 0.06, the null hypothesis
 ![image](https://user-images.githubusercontent.com/116928193/229047275-79eff50c-0a39-4233-9e91-fefa0ef03c48.png)
 
 However, when running t-tests on all lots, lot 3 has a p value low enough to reject the null hypothesis 
+
+## Study Design: MechaCar vs Competition
+
+The next steps for marketing and analysis would be to assure consumers that paying for our Mechacars would be an economical decisision, in summation, that our cars have lower maintenance costs and higher mpgs
+
+## Metrics to test
+The metrics to test would be mpgs of mechacars and avg per year maintenance costs compared to a dataset of our competitors
+
+# Null Hypothesis
+
+Mechachars mpg and maintenance costs are similar to our competitors
+
+# Alteranate Hypothesis
+Mecha chars' overall financial costs are statistically below those of our competitors
+
+## Statitistical Test to Use
+
+In order to be able to test our cars vs our competitors, using multiple tests and datasets, an ANOVA test would prove most insightful
+
+## Data Needed
+
+Most beneficial to these analyses would be a dataset of maintenance costs and mpgs of both our consumers and our competitor's.
+
+
