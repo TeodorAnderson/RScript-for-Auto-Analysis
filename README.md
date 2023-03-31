@@ -8,3 +8,8 @@ As seen in the screenshot above, when using linear regression to analyize which 
 Furthermore, with a p-value of 5.35e-11, far less than the significance level of 0.05, we can conclude that the slope will not be zero
 
 In conclusion, by using this linear model and achieving multiple R-squared value of 0.7149, we can declare that the variables given today have a good chance of prediciting miles per gallon
+
+## Summary Statistics on Suspension Coils
+![Screenshot 2023-03-30 235030](https://user-images.githubusercontent.com/116928193/229045471-fb2c3b92-dac8-4151-b7c5-53d00871fdf1.png)
+![Screenshot 2023-03-30 235023](https://user-images.githubusercontent.com/116928193/229045508-699205ac-f0ae-4ceb-bb50-05fa0e01b8cb.png)
+The total variance of all lots is safely below 100psi for suspension coils, but when grouping by lots, we noticed that lot 1 was not maintaining safety standards
