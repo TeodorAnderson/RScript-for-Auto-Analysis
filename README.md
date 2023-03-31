@@ -17,7 +17,10 @@ The total variance of all lots is safely below 100psi for suspension coils, but 
 
 ## T-Tests on Suspension Coils
 
-![Screenshot 2023-03-30 235900](https://user-images.githubusercontent.com/116928193/229046936-ffb0a2b7-1036-4083-af66-00e469c95532.png)
+![image](https://user-images.githubusercontent.com/116928193/229048582-a69eea50-4be2-42b9-bdf4-93ff0b102132.png)
+
 The t-test run on all lots show that with a p value of 0.06, the null hypothesis cannot be rejected
+
 ![image](https://user-images.githubusercontent.com/116928193/229047275-79eff50c-0a39-4233-9e91-fefa0ef03c48.png)
+
 However, when running t-tests on all lots, lot 3 has a p value low enough to reject the null hypothesis 
