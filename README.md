@@ -14,3 +14,10 @@ In conclusion, by using this linear model and achieving multiple R-squared value
 ![Screenshot 2023-03-30 235023](https://user-images.githubusercontent.com/116928193/229045508-699205ac-f0ae-4ceb-bb50-05fa0e01b8cb.png)
 
 The total variance of all lots is safely below 100psi for suspension coils, but when grouping by lots, we noticed that lot 3 was not maintaining safety standards
+
+## T-Tests on Suspension Coils
+
+![Screenshot 2023-03-30 235900](https://user-images.githubusercontent.com/116928193/229046936-ffb0a2b7-1036-4083-af66-00e469c95532.png)
+The t-test run on all lots show that with a p value of 0.06, the null hypothesis cannot be rejected
+![image](https://user-images.githubusercontent.com/116928193/229047275-79eff50c-0a39-4233-9e91-fefa0ef03c48.png)
+However, when running t-tests on all lots, lot 3 has a p value low enough to reject the null hypothesis 
