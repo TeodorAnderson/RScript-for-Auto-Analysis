@@ -36,7 +36,7 @@ The metrics to test would be mpgs of mechacars and avg per year maintenance cost
 
 Mechachars mpg and maintenance costs are similar to our competitors
 
-# Alteranate Hypothesis
+# Alternate Hypothesis
 Mecha chars' overall financial costs are statistically below those of our competitors
 
 ## Statitistical Test to Use
